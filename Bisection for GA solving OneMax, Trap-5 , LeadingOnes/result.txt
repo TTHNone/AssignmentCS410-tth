@@ -1,0 +1,437 @@
+###### Onemax 1X
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 10
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 0
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+52 374.4 21521749
+20 152 21521759
+22 224.4 21521769
+24 177.6 21521779
+24 189.6 21521789
+52 410.8 21521799
+24 172.8 21521809
+28 226.8 21521819
+28 224 21521829
+26 202.8 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:30 11.2428
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:235.52 82.3326
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 20
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 0
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+64 812.8 21521749
+60 678 21521759
+72 849.6 21521769
+56 716.8 21521779
+72 856.8 21521789
+88 1020.8 21521799
+72 928.8 21521809
+64 800 21521819
+68 782 21521829
+64 748.8 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:68 8.39047
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:819.44 96.0025
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 40
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 0
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+208 3868.8 21521749
+176 3308.8 21521759
+224 4099.2 21521769
+224 4121.6 21521779
+272 4868.8 21521789
+160 3056 21521799
+256 4480 21521809
+160 3056 21521819
+256 4531.2 21521829
+208 3910.4 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:214.4 37.9979
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:3930.08 594.003
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 80
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 0
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+576 16243.2 21521749
+832 21964.8 21521759
+576 15840 21521769
+512 14592 21521779
+640 17856 21521789
+512 13926.4 21521799
+640 16960 21521809
+704 18796.8 21521819
+704 18937.6 21521829
+544 15286.4 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:624 96.2663
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:17040.3 2290.2
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 160
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 0
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+3328 128794 21521749
+2048 84172.8 21521759
+2176 87257.6 21521769
+2048 84787.2 21521779
+2560 101376 21521789
+2048 83558.4 21521799
+1920 76800 21521809
+2304 95385.6 21521819
+2048 86220.8 21521829
+3072 119808 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:2355.2 458.662
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:94816 16182.1
+----
+###### Onemax UX
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 10
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 0
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 1
+24 168 21521749
+16 113.6 21521759
+20 146 21521769
+20 144 21521779
+24 170.4 21521789
+18 120.6 21521799
+18 136.8 21521809
+36 255.6 21521819
+18 131.4 21521829
+16 110.4 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:21 5.6745
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:149.68 40.2743
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 20
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 0
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 1
+68 673.2 21521749
+40 396 21521759
+26 262.6 21521769
+32 304 21521779
+28 296.8 21521789
+28 305.2 21521799
+28 277.2 21521809
+40 424 21521819
+30 309 21521829
+32 316.8 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:35.2 11.8727
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:356.48 115.89
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 40
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 0
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 1
+48 724.8 21521749
+52 769.6 21521759
+60 852 21521769
+56 812 21521779
+48 691.2 21521789
+44 655.6 21521799
+56 823.2 21521809
+56 784 21521819
+64 896 21521829
+68 965.6 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:55.2 7.11056
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:797.4 89.1527
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 80
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 0
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 1
+88 1856.8 21521749
+112 2251.2 21521759
+104 2121.6 21521769
+120 2400 21521779
+96 1987.2 21521789
+136 2774.4 21521799
+88 1804 21521809
+96 2006.4 21521819
+96 1939.2 21521829
+88 1830.4 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:102.4 15.0944
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:2097.12 288.937
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 160
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 0
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 1
+208 5886.4 21521749
+144 4190.4 21521759
+144 4161.6 21521769
+144 4233.6 21521779
+128 3763.2 21521789
+176 5016 21521799
+128 3763.2 21521809
+144 4233.6 21521819
+160 4624 21521829
+144 4276.8 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:152 22.9085
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:4414.88 601.594
+----
+###### Trap5 1X
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 10
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 1
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+96 844.8 21521749
+144 1180.8 21521759
+88 844.8 21521769
+96 854.4 21521779
+104 894.4 21521789
+136 1142.4 21521799
+128 1113.6 21521809
+104 821.6 21521819
+64 550.4 21521829
+112 985.6 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:107.2 22.6839
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:923.28 179.363
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 20
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 1
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+192 2400 21521749
+208 2724.8 21521759
+320 3904 21521769
+256 3251.2 21521779
+288 3945.6 21521789
+384 4992 21521799
+240 2952 21521809
+240 3120 21521819
+256 3584 21521829
+272 3318.4 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:265.6 52.6786
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:3419.2 698.579
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 40
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 1
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+832 15974.4 21521749
+1088 20563.2 21521759
+512 10700.8 21521769
+704 14713.6 21521779
+1280 23936 21521789
+768 14515.2 21521799
+896 17651.2 21521809
+1024 19763.2 21521819
+896 16934.4 21521829
+960 18528 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:896 202.386
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:17328 3496.58
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 80
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 1
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+3584 101427 21521749
+4352 122726 21521759
+3072 90624 21521769
+4352 123162 21521779
+4352 125773 21521789
+4096 118784 21521799
+2048 60211.2 21521809
+4352 124032 21521819
+3584 103219 21521829
+4352 126643 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:3814.4 728.139
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:109660 20267.4
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 160
+Chon function Onemax hay trap5: (0: onemax, 1: trap5, 2: LeadingOnes): 1
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+0 0 21521749
+0 0 21521759
+0 0 21521769
+0 0 21521779
+0 0 21521789
+0 0 21521799
+0 0 21521809
+0 0 21521819
+0 0 21521829
+0 0 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:0 0
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:0 0
+----
+###### Trap5 UX
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 10
+Chon function Onemax hay trap5 hay LeadingOnes: (0: onemax, 1: trap5, 2: LeadingOnes): 1
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 1
+384 4147.2 21521749
+256 2841.6 21521759
+256 2611.2 21521769
+240 2616 21521779
+416 4700.8 21521789
+416 5200 21521799
+320 3872 21521809
+384 4070.4 21521819
+256 3046.4 21521829
+352 3942.4 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:328 67.5988
+So lan goi ham danh gia (number_of_evaluations) cua sGA cho phep lai va function tuong ung la:3704.8 848.615
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 20
+Chon function Onemax hay trap5 hay LeadingOnes: (0: onemax, 1: trap5, 2: LeadingOnes): 1
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 1
+2048 47923.2 21521749
+3328 81203.2 21521759
+4352 105318 21521769
+2048 51200 21521779
+3072 72499.2 21521789
+4352 99660.8 21521799
+3072 80179.2 21521809
+3840 92160 21521819
+3072 78950.4 21521829
+4608 111974 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:3379.2 862.838
+So lan goi ham danh gia (number_of_evaluations) cua sGA cho phep lai va function tuong ung la:82106.9 20175.8
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 40
+Chon function Onemax hay trap5 hay LeadingOnes: (0: onemax, 1: trap5, 2: LeadingOnes): 1
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 1
+0 0 21521749
+0 0 21521759
+0 0 21521769
+0 0 21521779
+0 0 21521789
+0 0 21521799
+0 0 21521809
+0 0 21521819
+0 0 21521829
+0 0 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:0 0
+So lan goi ham danh gia (number_of_evaluations) cua GA cho phep lai va function tuong ung la:0 0
+----
+###### LeadingOnes 1X
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 10
+Chon function Onemax hay trap5 hay LeadingOnes: (0: onemax, 1: trap5, 2: LeadingOnes): 2
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+96 940.8 21521749
+72 633.6 21521759
+176 1408 21521769
+104 780 21521779
+104 873.6 21521789
+104 884 21521799
+104 884 21521809
+96 902.4 21521819
+120 984 21521829
+160 1392 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:113.6 29.6756
+So lan goi ham danh gia (number_of_evaluations) cua sGA cho phep lai va function tuong ung la:968.24 234.279
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 20
+Chon function Onemax hay trap5 hay LeadingOnes: (0: onemax, 1: trap5, 2: LeadingOnes): 2
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+544 9846.4 21521749
+480 7920 21521759
+416 7155.2 21521769
+448 7302.4 21521779
+480 7440 21521789
+512 8704 21521799
+480 7920 21521809
+480 8544 21521819
+448 7974.4 21521829
+448 8198.4 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:473.6 34.4651
+So lan goi ham danh gia (number_of_evaluations) cua sGA cho phep lai va function tuong ung la:8100.48 752.764
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 40
+Chon function Onemax hay trap5 hay LeadingOnes: (0: onemax, 1: trap5, 2: LeadingOnes): 2
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+3840 122112 21521749
+2816 102502 21521759
+2560 102400 21521769
+2816 96307.2 21521779
+3840 132096 21521789
+3584 121139 21521799
+3584 116838 21521809
+3584 113971 21521819
+3328 104166 21521829
+4608 153446 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:3456 575.288
+So lan goi ham danh gia (number_of_evaluations) cua sGA cho phep lai va function tuong ung la:116498 16193.8
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 80
+Chon function Onemax hay trap5 hay LeadingOnes: (0: onemax, 1: trap5, 2: LeadingOnes): 2
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 0
+0 0 21521749
+0 0 21521759
+0 0 21521769
+0 0 21521779
+0 0 21521789
+0 0 21521799
+0 0 21521809
+0 0 21521819
+0 0 21521829
+0 0 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:0 0
+So lan goi ham danh gia (number_of_evaluations) cua sGA cho phep lai va function tuong ung la:0 0
+----
+###### LeadingOnes UX
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 10
+Chon function Onemax hay trap5 hay LeadingOnes: (0: onemax, 1: trap5, 2: LeadingOnes): 2
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 1
+80 712 21521749
+64 518.4 21521759
+104 884 21521769
+48 388.8 21521779
+64 556.8 21521789
+64 544 21521799
+40 320 21521809
+104 863.2 21521819
+80 632 21521829
+68 584.8 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:71.6 19.956
+So lan goi ham danh gia (number_of_evaluations) cua sGA cho phep lai va function tuong ung la:600.4 172.741
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 20
+Chon function Onemax hay trap5 hay LeadingOnes: (0: onemax, 1: trap5, 2: LeadingOnes): 2
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 1
+208 3286.4 21521749
+192 3033.6 21521759
+240 3456 21521769
+272 4025.6 21521779
+192 2976 21521789
+160 2400 21521799
+176 2763.2 21521809
+256 3891.2 21521819
+176 2622.4 21521829
+208 3286.4 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:208 35.0542
+So lan goi ham danh gia (number_of_evaluations) cua sGA cho phep lai va function tuong ung la:3174.08 497.534
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 40
+Chon function Onemax hay trap5 hay LeadingOnes: (0: onemax, 1: trap5, 2: LeadingOnes): 2
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 1
+896 23385.6 21521749
+512 13926.4 21521759
+832 22464 21521769
+704 18937.6 21521779
+704 17952 21521789
+640 17152 21521799
+704 19782.4 21521809
+768 20582.4 21521819
+544 14524.8 21521829
+960 25056 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:726.4 135.802
+So lan goi ham danh gia (number_of_evaluations) cua sGA cho phep lai va function tuong ung la:19376.3 3462.57
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 80
+Chon function Onemax hay trap5 hay LeadingOnes: (0: onemax, 1: trap5, 2: LeadingOnes): 2
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 1
+3072 149299 21521749
+2176 107494 21521759
+2304 114970 21521769
+2176 108582 21521779
+1792 92108.8 21521789
+2816 139955 21521799
+2816 138266 21521809
+2816 146150 21521819
+2304 113818 21521829
+2816 143334 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:2508.8 389.086
+So lan goi ham danh gia (number_of_evaluations) cua sGA cho phep lai va function tuong ung la:125398 19119.3
+----
+Nhap vao kich thuoc van de (problem size) [10, 20, 40, 80, 160]: 160
+Chon function Onemax hay trap5 hay LeadingOnes: (0: onemax, 1: trap5, 2: LeadingOnes): 2
+Chon phep lai ghep 1X hay UX (0: 1X, 1: UX): 1
+0 0 21521749
+0 0 21521759
+0 0 21521769
+0 0 21521779
+0 0 21521789
+0 0 21521799
+0 0 21521809
+0 0 21521819
+0 0 21521829
+0 0 21521839
+Ket qua MRPS cua GA cho phep lai va function tuong ung la:0 0
+So lan goi ham danh gia (number_of_evaluations) cua sGA cho phep lai va function tuong ung la:0 0
